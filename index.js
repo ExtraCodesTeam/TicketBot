@@ -180,4 +180,4 @@ client.on('interactionCreate', async interaction => {
     }
 });
 
-client.login("MTMwMTIzNjE1NDA2NjE0NTM3MQ.GU5goc.Ie0ms3Mv_io_B7SJ4ELNDYePCYtLYE4tS6SeyA");
+client.login("token here");
